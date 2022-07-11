@@ -1,11 +1,6 @@
-//Get business card done. Try add some 3d to it ... then deploy on foxyflow.net (Vercel) and link in Portfolio. 
-//Add note: Plastering site hosted by Wordpress. Add into lukeslangaugelearning "New Reactjs/threejs 3D site under construction"
-//Reactjs Crash Course Deploy a business card: Make a video explaining React and why I'm focusing on it for my web contracting stack.
-//"Standout from the rest" -- and teach how to make a 3d business card and deploy a website for your portfolio. 
-//Add in typescript.
-
 // import React from 'react'
 // import ReactDOM from 'react-dom'
+
 function Page(){ 
     return ( 
     <div>
@@ -34,10 +29,6 @@ function Page(){
     </div>
     );
 }
-
-
-
-
 
 
 ReactDOM.render(
